@@ -1,7 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjayj-fe&count_bg=%23969696&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## About Me
-
 안녕하세요? :)<br>
 현재 쇼핑몰 중심의 웹에이전시에서 퍼블리셔로 일하고 있습니다.<br>
 HTML, CSS, Javascript의 지식을 가지고 있으며, Front End Devloper로서 ES6+, Vue에 관심이 많습니다.<br>
