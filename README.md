@@ -7,11 +7,11 @@ Vanilla JS, Vue, React에 대한 스터디 연락을 환영합니다.<br>
 veat14@naver.com 로 메일을 보내주시면 빠른 시일내에 답장드리겠습니다. 😃
 
 ## 🔨 Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-red?logo=HTML5&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-red?logo=HTML&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=HTML5&logoColor=white)
 
-![CSS](https://img.shields.io/badge/-css-yellow?logo=CSS3&logoColor=white)
-![CSS3](https://img.shields.io/badge/-css-yellow?logo=CSS3&logoColor=white)
+![CSS](https://img.shields.io/badge/-css-yellow?logo=CSS&logoColor=white)
+![CSS3](https://img.shields.io/badge/-css3-yellow?logo=CSS3&logoColor=white)
 ![SASS](https://img.shields.io/badge/-sass-informational?logo=Sass&logoColor=white)
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-white?logo=javascript&logoColor=black)
