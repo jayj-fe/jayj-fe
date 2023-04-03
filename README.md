@@ -8,6 +8,7 @@ veat14@naver.com 로 메일을 보내주시면 빠른 시일내에 답장드리�
 
 ## 🔨 Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-red?logo=HTML5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML-red?logo=HTML5&logoColor=white)
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-white?logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/-jQuery-gray?logo=jQuery)
