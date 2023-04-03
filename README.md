@@ -8,11 +8,13 @@ veat14@naver.com 로 메일을 보내주시면 빠른 시일내에 답장드리�
 
 ## 🔨 Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-red?logo=HTML5&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML-red?logo=HTML5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-red?logo=HTML5&logoColor=white)
+
+![CSS](https://img.shields.io/badge/-css-yellow?logo=CSS3&logoColor=white)
+![CSS3](https://img.shields.io/badge/-css-yellow?logo=CSS3&logoColor=white)
+![SASS](https://img.shields.io/badge/-sass-informational?logo=Sass&logoColor=white)
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-white?logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/-jQuery-gray?logo=jQuery)
 ![Vuejs](https://img.shields.io/badge/-vue-brightgreen?logo=Vue.js&logoColor=white)
 
-![CSS](https://img.shields.io/badge/-css-yellow?logo=CSS3&logoColor=white)
-![SASS](https://img.shields.io/badge/-sass-informational?logo=Sass&logoColor=white)
