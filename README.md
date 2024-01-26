@@ -6,13 +6,13 @@ Vanilla JS, Vue, React에 대한 스터디 연락을 환영합니다.<br>
 veat14@naver.com 로 메일을 보내주시면 빠른 시일내에 답장드리겠습니다. 😃
 
 ## 🏬 Career
-- 한국일보사 '2023.07 ~`
-- 위트플러스 '2017.02 ~ 2023.06`
-- 시도우 '2015.11 ~ 2016.11`
+- 한국일보사 `2023.07 ~`
+- 위트플러스 `2017.02 ~ 2023.06`
+- 시도우 `2015.11 ~ 2016.11`
 
 ## 💻 Project
-- [캐시나무](https://cashnamu.com/main.do) '2023.09 ~`
-- [대진표-NPM](https://www.npmjs.com/package/dol-match-bracket) '2023.08 ~ 23.09`
+- [캐시나무](https://cashnamu.com/main.do) `2023.09 ~`
+- [대진표-NPM](https://www.npmjs.com/package/dol-match-bracket) `2023.08 ~ 23.09`
 
 ## 🔨 Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-red?logo=HTML&logoColor=white)
@@ -27,3 +27,5 @@ veat14@naver.com 로 메일을 보내주시면 빠른 시일내에 답장드리�
 ![Vuejs](https://img.shields.io/badge/-vue-brightgreen?logo=Vue.js&logoColor=white)
 
 ## 🥇 Awards
+
+(http://datajournalismawards.kr/2023-winner7/)
