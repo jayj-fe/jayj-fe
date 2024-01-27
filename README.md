@@ -16,7 +16,9 @@ veat14@naver.com 로 메일을 보내주시면 빠른 시일내에 답장드리�
 
 ## 💻 Project
 - [캐시나무](https://cashnamu.com/main.do) `2023.09 ~ `
+    - 쇼핑하면 적립금이 모이고 적립금을 캐시백 해주는 서비스.
 - [대진표(NPM)](https://www.npmjs.com/package/dol-match-bracket) `2023.08 ~ 2023.09`
+    - 토너먼트 대진표를 만드는 자바스크립트 라이브러리
 
 <br>
 
@@ -31,13 +33,25 @@ veat14@naver.com 로 메일을 보내주시면 빠른 시일내에 답장드리�
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-gray?logo=javascript&logoColor=yellow)
 ![jQuery](https://img.shields.io/badge/-jQuery-gray?logo=jQuery)
+
 ![Vuejs](https://img.shields.io/badge/-Vue.js-brightgreen?logo=Vue.js&logoColor=white)
+![Vuex](https://img.shields.io/badge/-Vuex-white?logo=npm&logoColor=red)
+
 ![React](https://img.shields.io/badge/-React.js-black?logo=React&logoColor=skyblue)
 ![Next](https://img.shields.io/badge/-Next.js-black?logo=Next.js&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-white?logo=npm&logoColor=red)
+
 ![Astro.js](https://img.shields.io/badge/-Astro.js-white?logo=astro&logoColor=black)
+
+![Webpack](https://img.shields.io/badge/-webpack-blue?logo=Webpack&logoColor=white)
+![grunt](https://img.shields.io/badge/-grunt-yellow?logo=grunt&logoColor=white)
+![gulp](https://img.shields.io/badge/-gulp-red?logo=gulp&logoColor=white)
+![vite](https://img.shields.io/badge/-vite-white?logo=vite)
+![jenkins](https://img.shields.io/badge/-jenkins-red?logo=jenkins&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-black?logo=Git&logoColor=red)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=GitHub&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-purple?logo=GitLab)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-gray?logo=MySQL&logoColor=blue)
 
