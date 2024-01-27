@@ -33,6 +33,7 @@ veat14@naver.com 로 메일을 보내주시면 빠른 시일내에 답장드리�
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-gray?logo=javascript&logoColor=yellow)
 ![jQuery](https://img.shields.io/badge/-jQuery-gray?logo=jQuery)
+![TypeScript](https://img.shields.io/badge/-TypeScript-informational?logo=TypeScript&logoColor=white)
 
 ![Vuejs](https://img.shields.io/badge/-Vue.js-brightgreen?logo=Vue.js&logoColor=white)
 ![Vuex](https://img.shields.io/badge/-Vuex-white?logo=npm&logoColor=red)
@@ -42,6 +43,7 @@ veat14@naver.com 로 메일을 보내주시면 빠른 시일내에 답장드리�
 ![Zustand](https://img.shields.io/badge/-Zustand-white?logo=npm&logoColor=red)
 
 ![Astro.js](https://img.shields.io/badge/-Astro.js-white?logo=astro&logoColor=black)
+
 
 ![Webpack](https://img.shields.io/badge/-webpack-blue?logo=Webpack&logoColor=white)
 ![grunt](https://img.shields.io/badge/-grunt-yellow?logo=grunt&logoColor=white)
