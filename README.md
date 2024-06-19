@@ -39,11 +39,11 @@ veat14@naver.com 로 메일을 보내주시면 빠른 시일내에 답장드리�
 ![Vuex](https://img.shields.io/badge/-Vuex-white?logo=npm&logoColor=red)
 
 ![React](https://img.shields.io/badge/-React.js-black?logo=React&logoColor=skyblue)
+![React-Query](https://img.shields.io/badge/-ReactQuery-informational?logo=ReactQuery&logoColor=red)
 ![Next](https://img.shields.io/badge/-Next.js-black?logo=Next.js&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-white?logo=npm&logoColor=red)
 
 ![Astro.js](https://img.shields.io/badge/-Astro.js-white?logo=astro&logoColor=black)
-
 
 ![Webpack](https://img.shields.io/badge/-webpack-blue?logo=Webpack&logoColor=white)
 ![grunt](https://img.shields.io/badge/-grunt-yellow?logo=grunt&logoColor=white)
