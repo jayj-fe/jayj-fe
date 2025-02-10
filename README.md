@@ -72,7 +72,7 @@ veat14@naver.com 로 메일을 보내주시면 빠른 시일내에 답장드리�
 
 - [42회 관훈언론상 "저널리즘 혁신 부문" 수상](http://www.kwanhun.com/page/brd2_list.php?kind=05) `2024.12`
     - 프로젝트명 : [세월호 참사 10주기 - 그날의 책임자들, 저울은 공정했을까](https://interactive.hankookilbo.com/v/sewol)
-    - 프로젝트기간 : `2023.08 ~ 2023.09`
+    - 프로젝트기간 : `2024.02 ~ 2024.04`
 
 <br>
 
