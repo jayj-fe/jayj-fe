@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjayj-fe&count_bg=%23969696&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 안녕하세요? :)<br>
 HTML, CSS, Javascript의 지식을 가지고 있으며, Front End Devloper로서 ES6+, Vue, React에 관심이 많습니다.<br>
 Vanilla JS, Vue, React에 대한 스터디 연락을 환영합니다.<br>
