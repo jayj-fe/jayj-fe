@@ -1,9 +1,3 @@
-안녕하세요? :)<br>
-HTML, CSS, Javascript의 지식을 가지고 있으며, Front End Devloper로서 ES6+, Vue, React에 관심이 많습니다.<br>
-Vanilla JS, Vue, React에 대한 스터디 연락을 환영합니다.<br>
-veat14@naver.com 로 메일을 보내주시면 빠른 시일내에 답장드리겠습니다. 😃
-
-<br>
 
 ## 🏬 Career
 - 한국일보사 `2023.07 ~`
