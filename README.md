@@ -8,7 +8,7 @@
 
 ## 💻 Project
 - [쩝쩝박사](https://food-blog-appvercel.vercel.app/home) `2026.02 ~`
-    - 맛집 블로그를 작성하고 AI로 영상을 만들어 유튜브 숏츠까지 업로드 되는 서비스.
+    - 맛집 블로그를 작성하고 AI로 자동으로 영상을 만들어 유튜브 숏츠까지 자동 업로드 되는 서비스.
 - [캐시나무](https://cashnamu.com/main.do) `2023.09 ~ 2025.12`
     - 쇼핑하면 적립금이 모이고 적립금을 캐시백 해주는 서비스.
 - [대진표(NPM)](https://www.npmjs.com/package/dol-match-bracket) `2023.08 ~ 2023.09`
